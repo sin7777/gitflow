@@ -3,3 +3,5 @@
 //amend
 
 //change
+
+//git checkout -- file 2
